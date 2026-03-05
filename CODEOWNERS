@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dam1r-dev
+/src/backend/database.py      @dam1r-dev
+/src/backend/routers/auth.py  @dam1r-dev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dam1r-dev
